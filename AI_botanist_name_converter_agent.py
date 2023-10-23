@@ -40,4 +40,4 @@ reader = csv.reader(csv_file)
 # Loop over each row in the CSV file
 for row in reader:
     print(row[1], " = ", talk(row[1]))
-
+#google colab link (https://colab.research.google.com/drive/1B8LFa0-Ja_ksgJLJzOeuD6Eyvzt9pzV2?usp=sharing)
