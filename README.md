@@ -17,7 +17,7 @@ The scripts in this repository include:
 - [Example Outputs](#example-outputs)
 - [License](#license)
 - [Contribution](#contribution)
-- [Hobbies](#hobbies)
+
 
 ---
 
