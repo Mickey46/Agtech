@@ -77,13 +77,7 @@ The algorithm highlights pixels matching the selected color and suppresses other
 
 ---
 
-## Example Outputs
 
-- **Original vs Processed Image**  
-  Compare the raw camera feed with the enhanced image after applying filters.
-  
-- **Interactive Color Picking**  
-  Objects matching the selected color are enhanced in real-time.
 
 ---
 
