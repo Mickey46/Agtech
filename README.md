@@ -75,11 +75,7 @@ python mantisclickobject.py
 Click on any part of the live video feed to pick a color.  
 The algorithm highlights pixels matching the selected color and suppresses others.
 
----
 
-
-
----
 
 ## License
 
