@@ -34,7 +34,7 @@ Before running the scripts, ensure you have **Python 3.x** installed. You will a
 
 ### Install the dependencies using `pip`:
 
-``bash
+```bash
 pip install opencv-python numpy matplotlib scikit-image torch 
 
 ## Scripts Overview
@@ -66,7 +66,7 @@ A live feed script that simulates the vision abilities of the mantis shrimp, app
 #### mantisclickobject.py
 Run the script to open the camera feed and pick colors for object detection:
 
-``bash
+```bash
 python mantisclickobject.py
 
 ## Color Selection
