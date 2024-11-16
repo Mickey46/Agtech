@@ -79,8 +79,8 @@ The algorithm highlights pixels matching the selected color and suppresses other
 
 ## License
 
-This repository is licensed under the MIT License.  
-See the LICENSE file for more details.
+This repository is licensed under a proprietary license. Unauthorized copying, distribution, modification, or public display of this software is strictly prohibited without prior written permission from the owner. For more information, please refer to the [LICENSE](https://github.com/Mickey46/Agtech/blob/main/LICENSE) file or contact the repository owner.
+
 
 
 
