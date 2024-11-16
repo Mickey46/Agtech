@@ -35,7 +35,8 @@ Before running the scripts, ensure you have **Python 3.x** installed. You will a
 ### Install the dependencies using `pip`:
 
 ```bash
-pip install opencv-python numpy matplotlib scikit-image torch 
+pip install opencv-python numpy matplotlib scikit-image torch
+```
 
 ## Scripts Overview
 
@@ -68,7 +69,7 @@ Run the script to open the camera feed and pick colors for object detection:
 
 ```bash
 python mantisclickobject.py
-
+```
 ## Color Selection
 
 Click on any part of the live video feed to pick a color.  
